@@ -8,7 +8,6 @@ Historic sports data and prediction of future champions.
 ## Content
 - [Project Description](#project-description)
 - [Data](#data)
-- [Database](#database)
 - [Workflow](#workflow)
 - [Links](#links)
 
