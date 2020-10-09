@@ -14,7 +14,7 @@ Historic sports data and prediction of game winners
 
 ## Project Description
 
-The is a 10 day final project of the Ironhack Data Analytics bootcamps. The main goal of my project was it to use a machine learning algorithm to make predictions on sports events.    
+This is my 10 day final project of the Ironhack Data Analytics bootcamp. The main goal of my project was it to use a machine learning algorithm to make predictions on sports events.    
 
 ## Data
 
