@@ -1,7 +1,7 @@
 # Final Project sports data
 Historic sports data and prediction of game winners  
 
-*[Ulrike Anklam]*
+*[Ulrike Anklam]*  
 *[Data Analytics Berlin, 09-10-2020]*
 
 
