@@ -41,7 +41,7 @@ trained ML model on it
 It is possible to predict, if the hometeam in a game setting will win or not, with an 85% accuracy.
 
 ## Links
-[Repository](https://github.com/Ulli-H/FinalProject_sports_data)
-[Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016) 
-[Slides](https://docs.google.com/presentation/d/1ddUEyhTkDKTutTU6mSWMCwFSVxrnalbiq7tucOJgR6I/edit?usp=sharing)  
+[Repository](https://github.com/Ulli-H/FinalProject_sports_data). 
+[Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016)   
+[Slides](https://docs.google.com/presentation/d/1ddUEyhTkDKTutTU6mSWMCwFSVxrnalbiq7tucOJgR6I/edit?usp=sharing)    
 [Trello](https://trello.com/b/d1QbNqiy/final-project-nfl-data) 
