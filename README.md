@@ -28,10 +28,10 @@ I used the v5 dataset with play-by-play data from the 2009 season to the 2018 se
 
 #### Data Ingestion
   
-downloaded a dataset 
-notebook Data Wrangling and Cleaning
-created games dataset based on play-by-play data with features from each team
-trained ML model on it
+downloaded a dataset   
+notebook Data Wrangling and Cleaning. 
+created games dataset based on play-by-play data with features from each team   
+trained ML model on it   
 
 #### Data Storage
 
@@ -41,7 +41,7 @@ trained ML model on it
 It is possible to predict, if the hometeam in a game setting will win or not, with an 85% accuracy.
 
 ## Links
-[Repository](https://github.com/Ulli-H/FinalProject_sports_data). 
+[Repository](https://github.com/Ulli-H/FinalProject_sports_data)    
 [Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016)   
 [Slides](https://docs.google.com/presentation/d/1ddUEyhTkDKTutTU6mSWMCwFSVxrnalbiq7tucOJgR6I/edit?usp=sharing)    
 [Trello](https://trello.com/b/d1QbNqiy/final-project-nfl-data) 
