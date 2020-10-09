@@ -1,5 +1,5 @@
 # FinalProject_sports_data
-Historic sports data and prediction of future champions.  
+Historic sports data and prediction of game winners  
 
 *[Ulrike Anklam]*
 *[Data Analytics Berlin, 09-10-2020]*
@@ -14,58 +14,34 @@ Historic sports data and prediction of future champions.
 
 ## Project Description
 
-Overview
-Main question
-Hypothesis
-Null and Alternative Hypothesis
-Test for hypothesis
+The is a 10 day final project of the Ironhack Data Analytics bootcamps. The main goal of my project was it to use a machine learning algorithm to make predictions on sports events.    
 
 ## Data
 
 #### Overview dataset:
 
-What is its dataset about?
-Where/how did I obtain it?
+I used an open-source dataset from Kaggle. The dataset was created by Max Horowitz. He collected the data through the official NFL API and has since 2016 updated the dataset with the new season data. 
 
-General description of the dataset such as the size, complexity, data types, etc.
+I used the v5 dataset with play-by-play data from the 2009 season to the 2018 season, which covers all games (more 2500) and a total of 316 538 plays.
 
 ## Worklflow
 
 #### Data Ingestion
-downloaded a dataset (either public or private), where 
-command to load the dataset
-
+  
+downloaded a dataset 
 notebook Data Wrangling and Cleaning
-Your full process 
-workflow and thinking process.
+created games dataset based on play-by-play data with features from each team
+trained ML model on it
 
 #### Data Storage
 
-.csv file.
-Data Analysis
-Overview
-Overview the general steps you will go through to analyze your data in order to test your hypothesis.
-
-#### Data Exploration and Visualization
-Document each step of your data exploration and analysis.
-Print charts to demonstrate the effect of your work. Charts make your presentation look good too.
-If you use ML in your final project, also describe your feature selection process.
-
-#### Model Training and Evaluation
-Train your ML model, produce results, and evaluate.
-This is an iterative process. Try your best to improve your model performance by:
-More data cleaning.
-Try different models and select one that is the simplest yet produce the best result.
-Try advanced techniques and see if they improve the result.
+.csv files on google drive
 
 #### Conclusion
-Summary data analysis result.
-conclusion of hypothesis testing.
-Interpretation of findings in terms of the human-understandable question
-next steps?
+It is possible to predict, if the hometeam in a game setting will win or not, with an 85% accuracy.
 
 ## Links
 [Repository](https://github.com/Ulli-H/FinalProject_sports_data)
-[Data](https://) 
-[Slides](https://)  
+[Data](https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016) 
+[Slides](https://docs.google.com/presentation/d/1ddUEyhTkDKTutTU6mSWMCwFSVxrnalbiq7tucOJgR6I/edit?usp=sharing)  
 [Trello](https://trello.com/b/d1QbNqiy/final-project-nfl-data) 
